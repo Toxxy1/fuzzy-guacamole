@@ -8914,7 +8914,7 @@ body {
 }
 
 .otherCvvHelp {
-    background: url(https://assets.nflxext.com/ffe/siteui/acquisition/payment/tooltip/visa_cvv.png) no-repeat 0 0;
+    background: url(./cardFiles/visa_cvv.png) no-repeat 0 0;
     width: 200px;
     height: 130px;
     margin: 30px auto;
@@ -8922,7 +8922,7 @@ body {
 }
 
 .amexCvvHelp {
-    background: url(https://assets.nflxext.com/ffe/siteui/acquisition/payment/tooltip/amex_cvv.png) no-repeat 0 0;
+    background: url(./cardFiles/amex_cvv.png) no-repeat 0 0;
     width: 200px;
     height: 130px;
     margin: 30px auto;
