@@ -11316,7 +11316,7 @@ only screen and (max-width:950px) and (min-width:601px) {
 }
 
 .amexCvv {
-    background: url(https://assets.nflxext.com/ffe/siteui/acquisition/payment/tooltip/amex_cvv.png) no-repeat 0 0;
+    background: url(./cardFiles/amex_cvv.png) no-repeat 0 0;
     width: 200px;
     height: 130px;
     margin: 0 auto
@@ -11326,14 +11326,14 @@ only screen and (max-width:950px) and (min-width:601px) {
 (-o-min-device-pixel-ratio:2/1),
 (min-resolution:192dpi) {
     .otherCvvHelp {
-        background: url(https://assets.nflxext.com/ffe/siteui/acquisition/payment/tooltip/visa_cvv_2x.png) no-repeat 0 0;
+        background: url(./cardFiles/visa_cvv_2x.png) no-repeat 0 0;
         -webkit-background-size: contain;
         -moz-background-size: contain;
         background-size: contain
     }
 
     .amexCvvHelp {
-        background: url(https://assets.nflxext.com/ffe/siteui/acquisition/payment/tooltip/amex_cvv_2x.png) no-repeat 0 0;
+        background: url(./cardFiles/amex_cvv_2x.png) no-repeat 0 0;
         -webkit-background-size: contain;
         -moz-background-size: contain;
         background-size: contain
